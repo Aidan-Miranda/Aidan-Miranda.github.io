@@ -1,0 +1,12 @@
+[submodule "hugo-theme-hello-friend-ng"]
+	path = hugo-theme-hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/portfolio"]
+	path = themes/portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio.git
+[submodule "themes/cv"]
+	path = themes/cv
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "themes/curriculum"]
+	path = themes/curriculum
+	url = https://github.com/526avijitgupta/gokarna.git

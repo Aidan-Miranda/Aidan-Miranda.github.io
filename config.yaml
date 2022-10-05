@@ -1,0 +1,23 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Aidan Miranda Blasco
+theme: curriculum
+
+menu:
+  main:
+    - identifier: about 
+      name: Acerca de 
+      url: /acerca_de 
+      weight: 200 
+    - identifier: contact
+      name: Contacto 
+      url: /contacto 
+      weight: 100 
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 50
+    - identifier: proyectos
+      name: Proyectos
+      url: /proyectos
+      weight: 40
