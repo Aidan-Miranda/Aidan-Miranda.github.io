@@ -6,4 +6,4 @@ draft: false
 
 ---
 
-Estos son algunos de mis proyectos:
+Este proyecto consiste en desarrollar una página web responsive, es decir: que se adapte a cualquier dispositivo. Para ello, se ha utilizado el framework Bootstrap, el cual nos permite crear páginas web responsive de forma sencilla.
