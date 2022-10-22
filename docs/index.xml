@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aidan Miranda Blasco</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aidan Miranda Blasco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 22 Sep 2022 12:59:35 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Mon, 28 Mar 2022 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Para contactar conmigo puedes enviar un correo a mirandablascoaidan@gmail.com o escribir un mensaje en mi linkedin https://www.linkedin.com/in/aidan-miranda-blasco-2b1b1b1b1/</description>
+    </item>
+    
+    <item>
+      <title>Proyecto hundir la flota</title>
+      <link>http://example.org/proyectos/hundir_flota/</link>
+      <pubDate>Mon, 28 Mar 2022 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/proyectos/hundir_flota/</guid>
+      <description>Este proyecto consiste en un programa desarrollado enteramente usando Java, el cual te permite jugar al clásico juego de hundir la flota. El programa se ejecuta en la consola de comandos, y se puede jugar contra la máquina o contra otro jugador. El juego tiene un tablero de 10x10 casillas, en el que se colocan los barcos de cada jugador. El objetivo del juego consiste en hundir todos los barcos del oponente antes de que el oponente hunda todos los barcos del jugador.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://example.org/acerca_de/</link>
+      <pubDate>Mon, 28 Mar 2022 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/acerca_de/</guid>
+      <description>Mi nombre es Aidan Miranda, y soy un desarrollador web de Zaragoza especializado en front-end. Siempre he disfrutado aprendiendo cosas nuevas, por lo que soy un profesional altamente formado y actualizado.
+En la actualidad estoy aprendiendo machine learning, buscando unir mis conocimientos de front-end con el mundo de la inteligencia artificial. Soy un gran trabajador en equipo, y me gusta trabajar en proyectos que me permitan aprender cosas nuevas. Siempre estoy buscando nuevas oportunidades para seguir creciendo como profesional.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto panadería</title>
+      <link>http://example.org/proyectos/panaderia/</link>
+      <pubDate>Tue, 23 Nov 2021 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/proyectos/panaderia/</guid>
+      <description>Mi proyecto consiste en una página web de una panadería, en la que se pueden ver los productos que ofrece la panadería, así como los precios de los mismos. Además, se puede ver la ubicación de la panadería en un mapa de Google Maps.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto tragabolas</title>
+      <link>http://example.org/proyectos/tragabolas/</link>
+      <pubDate>Thu, 14 Oct 2021 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/proyectos/tragabolas/</guid>
+      <description>Para este proyecto desarrollé el tradicional y divertido juego &amp;ldquo;tragabolas&amp;rdquo;, no recuerdo como funcionaba.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto web responsive</title>
+      <link>http://example.org/proyectos/proyecto_responsive/</link>
+      <pubDate>Wed, 04 Mar 2020 12:59:35 +0200</pubDate>
+      
+      <guid>http://example.org/proyectos/proyecto_responsive/</guid>
+      <description>Este proyecto consiste en desarrollar una página web responsive, es decir: que se adapte a cualquier dispositivo. Para ello, se ha utilizado el framework Bootstrap, el cual nos permite crear páginas web responsive de forma sencilla.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
